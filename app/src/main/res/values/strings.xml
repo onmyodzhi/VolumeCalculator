@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VolumeCalculator</string>
+    <string name="CalculateCube">Cube Calculator</string>
+    <string name="CalculateSphere">Sphere Calculator</string>
+    <string name="CalculateRec">Rectangle Calculator</string>
+    <string name="CalculateCyl">Rectangle Cylinder</string>
+    <string name="enterRadius">Enter a radius</string>
+    <string name="enterHeight">Enter a height</string>
+    <string name="calculateVolume">Calculate volume</string>
+    <string name="enterSite">Enter a site</string>
+    <string name="resultVolume">result</string>
+</resources>
